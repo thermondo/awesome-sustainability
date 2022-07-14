@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: Help make model-forge better by creating a feature request.
+about: Help make awesome sustainability better by creating a feature request.
 labels: feature
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Help make model-forge better by reporting bugs, and other issues.
+about: Help make awesome sustainability better by reporting bugs, and other issues.
 labels: bug
 ---
 
