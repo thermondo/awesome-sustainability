@@ -24,8 +24,7 @@ jobs:
   build:
     name: Build
     permissions:
-      contents: read
-      actions: write
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
