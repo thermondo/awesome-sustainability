@@ -1,0 +1,13 @@
+build/
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Misc
+.DS_Store
+
+# other stuff
+/*/out
